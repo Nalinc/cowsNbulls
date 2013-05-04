@@ -1,0 +1,21 @@
+[u.s.e.r__m.a.n.u.a.l]
+
+how to play:
+
+1)open downloaded attachments:
+2)extract the contents somewhere u want
+3)open terminal
+4)follow the path where u stored the extracted contents
+5)run command ./cowsnbulls
+6)play the game
+7)check results in refree.txt after u played once 
+
+
+system requirements:
+1)a linux machine..thats it
+
+===|Go GaME|===
+
+^_^  ^_^   ^_^
+
+
